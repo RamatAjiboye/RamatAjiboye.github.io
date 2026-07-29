@@ -52,14 +52,15 @@ While building this portfolio, I gained practical experience in:
 - Version Control (Git & GitHub)
 - Debugging and Testing
 
-<!-----
+
 
 ## 🎥 Demo Video
 
 Watch a walkthrough of my portfolio:
 
-👉 [Add YouTube or Loom link here]
+👉 https://github.com/user-attachments/assets/7d8a3b03-8583-4131-8c53-f2f5bf5b989d
 
+<!-----
 _Example embed (GitHub supports this format):_
 
 [![Portfolio Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
